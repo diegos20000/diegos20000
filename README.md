@@ -1,9 +1,23 @@
-## Hi there 👋
+
+![Blue Navy and Orange Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/51272a95-d73a-4643-a015-2bac7cfa86bb)
+
+# ¡Hi, Im Diego Rodrigo Cano! 👋
+
+🌟 I assist companies in optimizing their websites and applications, ensuring they function smoothly. Whether it's debugging, fixing issues, or adding new features, I provide tailored solutions to meet each company's specific needs.
+
+🎯 About Me:
+Junior Web Developer with a passion for creating dynamic and responsive web applications.
+
+
+📚 Currently learning MongoDB and Postman.
+
+
+🚀 Passionate about going to the gym, playing table tennis, and video gaming.
 
 <!--
 **diegos20000/diegos20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I assist companies in optimizing their websites and applications, ensuring they function smoothly. Whether it's debugging, fixing issues, or adding new features, I provide tailored solutions to meet each company's specific needs.
+
 
 📫 How to reach me:
 - [X](https://x.com/DiegoRodri70054)
